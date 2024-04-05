@@ -11,7 +11,7 @@ Para testar este projeto em sua máquina local, siga estas etapas:
 1. **Clonar o Repositório:**
    - Clone este repositório em sua máquina local usando o seguinte comando:
      ```
-     git clone https://github.com/dassaev-lima/protocolos-tcp-udp
+     git clone https://github.com/dassaev-lima/protocolos-tcp-udp.git
      ```
 
 2. **Navegar para o Diretório:**
